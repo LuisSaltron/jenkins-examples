@@ -1,4 +1,3 @@
-package com.lucho.curso.sentencias.control;
 
 public class Estacion {
 
